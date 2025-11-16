@@ -9,7 +9,7 @@ Data: Cleaning, Analysis, Visualization
 
 Tools: Tableau, Power BI, Looker, Excel
 
-## Backsground
+## Background
 B.Sc. Computer Engineering – Telkom University
 
 Data Science Bootcamp – Dibimbing.id (Ongoing)
